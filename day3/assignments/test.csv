@@ -1,0 +1,37 @@
+,NAME,variable,value,genename,biofunction,molfunction,sysname,genenum
+706,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.05,-1.19,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+1132,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.05,-1.15,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+2740,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.05,0.17,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+2771,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.05,0.17,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+2948,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.05,2.0,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+4557,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.05,-0.64,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
+6243,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.1,-0.52,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+6669,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.1,-0.55,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+8277,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.1,0.15,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+8308,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.1,-0.19,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+8485,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.1,1.75,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+10094,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.1,-0.46,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
+11780,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.15,-0.55,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+12206,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.15,0.29,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+13814,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.15,0.01,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+13845,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.15,0.01,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+14022,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.15,0.96,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+15631,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.15,-0.51,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
+17317,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.2,-0.33,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+17743,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.2,0.38,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+19351,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.2,-0.04,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+19382,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.2,-0.07,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+19559,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.2,0.01,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+21168,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.2,-0.15,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
+22854,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.25,-0.1,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+23280,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.25,0.01,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+24888,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.25,-0.06,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+24919,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.25,0.11,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+25096,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.25,-0.3,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+26705,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.25,-0.05,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
+28391,PCL2       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL127W -- 1082011,G0.3,0.03,PCL2      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL127W,1082011
+28817,PCL9       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YDL179W -- 1085191,G0.3,0.09,PCL9      ,cell cycle,cyclin-dependent protein kinase regulator activity,YDL179W,1085191
+30425,CLG1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YGL215W -- 1083039,G0.3,-0.2,CLG1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YGL215W,1083039
+30456,SCM4       -- cell cycle -- molecular function unknown -- YGR049W -- 1085248,G0.3,0.3,SCM4      ,cell cycle,molecular function unknown,YGR049W,1085248
+30633,PCL5       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YHR071W -- 1083682,G0.3,-0.31,PCL5      ,cell cycle,cyclin-dependent protein kinase regulator activity,YHR071W,1083682
+32242,PCL1       -- cell cycle -- cyclin-dependent protein kinase regulator activity -- YNL289W -- 1082226,G0.3,-0.44,PCL1      ,cell cycle,cyclin-dependent protein kinase regulator activity,YNL289W,1082226
